@@ -30,6 +30,9 @@ h1, h2 {
     background-color: var(--fucsia);
 }
 
+ion-col {
+    border : solid 1px var(--fucsia);
+}
 
 
 section {
